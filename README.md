@@ -306,7 +306,7 @@ int main()
     return 0;
 }
 /* Grupo 1 II11A 
-   Membros...
+   Membros....
    N° 1
    N° 2
    N° 3
